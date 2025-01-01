@@ -49,7 +49,7 @@ public class Main {
                 school.addMember(teacher);
             }
 
-            System.out.println("Task 3: Class Relationships");
+
             System.out.println(school);
 
         } catch (IOException e) {

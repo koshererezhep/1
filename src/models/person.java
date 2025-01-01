@@ -16,6 +16,6 @@ class Person {
     @Override
     public String toString() {
         String genderStr = gender ? "Male" : "Female";
-        return "Hi, I am " + name + " " + surname + ", a " + age + "-year-old " + genderStr + ".";
+        return "Hi, my name is " + name + " " + surname + ", a " + age + "-year-old " + genderStr + ".";
     }
 }
